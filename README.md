@@ -9,7 +9,7 @@ You can access the website by clicking on the following link: https://dashing-ma
 
 ## Screenshot
 
-![Screenshot](../images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Features
 
