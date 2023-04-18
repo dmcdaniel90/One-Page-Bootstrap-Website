@@ -6,6 +6,11 @@ This is a basic website created using Bootstrap 5. This project is focused on de
 
 You can access the website by clicking on the following link: https://dashing-manatee-eab6fb.netlify.app/
 
+
+## Screenshot
+
+![Screenshot](/images/screenshot.png)
+
 ## Features
 
 The website provides information about the project and its mission. It also includes the following features:
