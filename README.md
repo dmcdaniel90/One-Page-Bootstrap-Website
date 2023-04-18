@@ -1,4 +1,4 @@
-# Dashing Manatee
+# Styling a webpage with Bootstrap 5 and SASS
 
 This is a basic website created using Bootstrap 5. This project is focused on developing my skills creating larger designs with Bootstrap, using more advanced build tools such as npm and the command line, and learning SASS/SCSS.
 
