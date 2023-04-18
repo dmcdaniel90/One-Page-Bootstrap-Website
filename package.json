@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Learning bootstrap v5 with sass.",
   "main": "index.html",
-  "homepage": "https://dmcdaniel90.github.io/One-Page-Bootstrap-Website/",
   "scripts": {
     "compile:sass": "sass --watch scss:dist/assets/css"
   },
